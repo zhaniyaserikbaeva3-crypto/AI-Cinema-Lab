@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI Cinema Lab
 
 Проект разделен на фронтенд, NestJS backend, документы и архив шаблонных страниц.
@@ -96,3 +97,6 @@ docker compose up -d --build
 ```bash
 docker compose down
 ```
+=======
+# AI-Cinema-Lab
+>>>>>>> afa1cdb1eb156c06af817c4576d4b8426671cdc0
